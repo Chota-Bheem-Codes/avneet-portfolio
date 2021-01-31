@@ -421,6 +421,7 @@
     .soundcloud{
         width: 99vw;
         height: 90vw;
+        margin-bottom: 7rem;
     }
 
     .soundcloud__content{
@@ -434,8 +435,10 @@
     }
 
     .soundcloud iframe{
-        min-height: 65vw;
+        height: 65vw;
         min-width: 20vw;
+        min-height: 400px;
+        max-height: 500px;
         margin-right: 3vw;
         border: 1vw solid #FF4D00;
         border-radius: 4%;
