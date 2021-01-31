@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avneet-portfolio/static/css/main.9c6932cf.chunk.css",
+    "main.css": "/avneet-portfolio/static/css/main.bea8a3f3.chunk.css",
     "main.js": "/avneet-portfolio/static/js/main.f648f784.chunk.js",
     "main.js.map": "/avneet-portfolio/static/js/main.f648f784.chunk.js.map",
     "runtime-main.js": "/avneet-portfolio/static/js/runtime-main.753bf23e.js",
@@ -10,7 +10,7 @@
     "static/js/3.5826af37.chunk.js": "/avneet-portfolio/static/js/3.5826af37.chunk.js",
     "static/js/3.5826af37.chunk.js.map": "/avneet-portfolio/static/js/3.5826af37.chunk.js.map",
     "index.html": "/avneet-portfolio/index.html",
-    "static/css/main.9c6932cf.chunk.css.map": "/avneet-portfolio/static/css/main.9c6932cf.chunk.css.map",
+    "static/css/main.bea8a3f3.chunk.css.map": "/avneet-portfolio/static/css/main.bea8a3f3.chunk.css.map",
     "static/js/2.0f357dee.chunk.js.LICENSE.txt": "/avneet-portfolio/static/js/2.0f357dee.chunk.js.LICENSE.txt",
     "static/media/Avee-Avatar.467d43db.png": "/avneet-portfolio/static/media/Avee-Avatar.467d43db.png",
     "static/media/Avee.6f5ed050.png": "/avneet-portfolio/static/media/Avee.6f5ed050.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.753bf23e.js",
     "static/js/2.0f357dee.chunk.js",
-    "static/css/main.9c6932cf.chunk.css",
+    "static/css/main.bea8a3f3.chunk.css",
     "static/js/main.f648f784.chunk.js"
   ]
 }
