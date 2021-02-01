@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/avneet-portfolio/static/css/main.bea8a3f3.chunk.css",
-    "main.js": "/avneet-portfolio/static/js/main.f648f784.chunk.js",
-    "main.js.map": "/avneet-portfolio/static/js/main.f648f784.chunk.js.map",
+    "main.css": "/avneet-portfolio/static/css/main.e6b4084b.chunk.css",
+    "main.js": "/avneet-portfolio/static/js/main.9e012fda.chunk.js",
+    "main.js.map": "/avneet-portfolio/static/js/main.9e012fda.chunk.js.map",
     "runtime-main.js": "/avneet-portfolio/static/js/runtime-main.753bf23e.js",
     "runtime-main.js.map": "/avneet-portfolio/static/js/runtime-main.753bf23e.js.map",
     "static/js/2.0f357dee.chunk.js": "/avneet-portfolio/static/js/2.0f357dee.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5826af37.chunk.js": "/avneet-portfolio/static/js/3.5826af37.chunk.js",
     "static/js/3.5826af37.chunk.js.map": "/avneet-portfolio/static/js/3.5826af37.chunk.js.map",
     "index.html": "/avneet-portfolio/index.html",
-    "static/css/main.bea8a3f3.chunk.css.map": "/avneet-portfolio/static/css/main.bea8a3f3.chunk.css.map",
+    "static/css/main.e6b4084b.chunk.css.map": "/avneet-portfolio/static/css/main.e6b4084b.chunk.css.map",
     "static/js/2.0f357dee.chunk.js.LICENSE.txt": "/avneet-portfolio/static/js/2.0f357dee.chunk.js.LICENSE.txt",
     "static/media/Avee-Avatar.467d43db.png": "/avneet-portfolio/static/media/Avee-Avatar.467d43db.png",
     "static/media/Avee.6f5ed050.png": "/avneet-portfolio/static/media/Avee.6f5ed050.png",
@@ -22,12 +22,13 @@
     "static/media/instagram.4ffad268.png": "/avneet-portfolio/static/media/instagram.4ffad268.png",
     "static/media/instagram.80236c5b.svg": "/avneet-portfolio/static/media/instagram.80236c5b.svg",
     "static/media/snapchat.51b2ef43.svg": "/avneet-portfolio/static/media/snapchat.51b2ef43.svg",
-    "static/media/whatsapp.6accd219.svg": "/avneet-portfolio/static/media/whatsapp.6accd219.svg"
+    "static/media/whatsapp.6accd219.svg": "/avneet-portfolio/static/media/whatsapp.6accd219.svg",
+    "static/media/youtube.0270b70e.svg": "/avneet-portfolio/static/media/youtube.0270b70e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.753bf23e.js",
     "static/js/2.0f357dee.chunk.js",
-    "static/css/main.bea8a3f3.chunk.css",
-    "static/js/main.f648f784.chunk.js"
+    "static/css/main.e6b4084b.chunk.css",
+    "static/js/main.9e012fda.chunk.js"
   ]
 }
