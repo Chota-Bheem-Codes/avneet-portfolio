@@ -149,7 +149,7 @@ const sentCard = (
             <div ref={contactRef} className="contact">
                 <h2 className="headings">CONTACT</h2>
                 <div className="socials">
-                    <img src={facebook} onClick={()=>window.open('https://www.facebook.com/avneet.sabharwal.7146')}/>
+                    <img src={facebook} onClick={()=>window.open('https://www.facebook.com/aveemadethat')}/>
                     <img src={sinstagram} onClick={()=>window.open('https://www.instagram.com/a_veemusic/')}/>
                     <img src={whatsapp} onClick={()=>window.open('https://api.whatsapp.com/send?phone=+919599601126')}/>
                     <img src={snapchat} onClick={()=>window.open('https://www.snapchat.com/add/memyselfavneet')}/>
