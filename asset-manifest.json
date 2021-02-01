@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/avneet-portfolio/static/css/main.e6b4084b.chunk.css",
-    "main.js": "/avneet-portfolio/static/js/main.9e012fda.chunk.js",
-    "main.js.map": "/avneet-portfolio/static/js/main.9e012fda.chunk.js.map",
+    "main.js": "/avneet-portfolio/static/js/main.9ce02188.chunk.js",
+    "main.js.map": "/avneet-portfolio/static/js/main.9ce02188.chunk.js.map",
     "runtime-main.js": "/avneet-portfolio/static/js/runtime-main.753bf23e.js",
     "runtime-main.js.map": "/avneet-portfolio/static/js/runtime-main.753bf23e.js.map",
     "static/js/2.0f357dee.chunk.js": "/avneet-portfolio/static/js/2.0f357dee.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.753bf23e.js",
     "static/js/2.0f357dee.chunk.js",
     "static/css/main.e6b4084b.chunk.css",
-    "static/js/main.9e012fda.chunk.js"
+    "static/js/main.9ce02188.chunk.js"
   ]
 }
