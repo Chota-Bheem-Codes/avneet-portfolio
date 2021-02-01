@@ -48,7 +48,8 @@
 
 .studio{
     margin-top:4.5vw;
-    width: 97.35vw;
+    margin-left: 0.65vw;
+    width: 97.5vw;
     height: 38vw;
     align-items: center;
     border: 0.7vw solid #FFD369;
@@ -82,26 +83,7 @@
     background-color:  rgba(241, 228, 228, 0.5);
 }
 
-.studio__avatar1{
-    display: inline-block;
-    position: absolute;
-    top: 12.5vw;
-    right: 33vw;
-    border-radius: 50%;
-    width: 8vw;
-    transform: rotate(-10deg);
-    animation: rotation1 0.5s infinite;
-}
-.studio__avatar2{
-    display: inline-block;
-    position: absolute;
-    top: 12.5vw;
-    right: 33vw;
-    border-radius: 50%;
-    width: 8vw;
-    transform: rotate(10deg);
-    animation: rotation2 0.5s infinite;
-}
+
 
 @keyframes rotation1 {
     from {
@@ -381,6 +363,7 @@
     }
     .navbar>img{
         width: 8%;
+        margin: auto;
     }
     
     .navbar>ul{
@@ -399,7 +382,8 @@
     .youtube{
         background-repeat: repeat-y;
         width: 99vw;
-        height: 200vw;
+        height: 220vw;
+        margin-bottom: 18vw;
     }
 
     .youtube__videos{
@@ -413,14 +397,14 @@
     
     .youtube__videos>iframe{
         margin: 4vw;
-        width: 60vw;
-        height: 35vw;
+        width: 80vw;
+        height: 44vw;
         border: 1vw solid red;
     }
 
     .soundcloud{
         width: 99vw;
-        height: 90vw;
+        height: 107vw;
         margin-bottom: 7rem;
     }
 
@@ -445,8 +429,8 @@
     }
 
     .touch{
-        height: 94vw;
-        background-position: 0 20vw;
+        height: 125vw;
+        background-position: 0 50vw;
     }
 
     .touch__content{
@@ -456,15 +440,32 @@
 
     .touch__content .instagram{
         margin: 0;
+        width: 38vw;
     }
 
     .chat{
         margin:0;
         margin-top: 2vw;
+        height: 40vw;
+    }
+
+    .chat__email{
+        width: 60vw;
+        height: 5vw;
+        font-size: 1.7vw;
+    }
+
+    .chat__message{
+        width: 60vw;
+        height: 20vw;
+        font-size: 1.7vw;
     }
 
     .chat__button{
         box-shadow: 0 0;
+        width: 18vw;
+        line-height: 5.5vw;
+        font-size: 2vw;
     }
 
     .sent{

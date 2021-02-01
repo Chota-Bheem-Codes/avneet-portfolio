@@ -12,6 +12,7 @@ import snapchat from '../../assets/vectors/snapchat.svg'
 import whatsapp from '../../assets/vectors/whatsapp.svg'
 import sinstagram from '../../assets/vectors/instagram.svg'
 import facebook from '../../assets/vectors/facebook.svg'
+import youtube from '../../assets/vectors/youtube.svg'
 import './Desktop.css';
 
 const Desktop = () => {
@@ -101,8 +102,6 @@ const sentCard = (
             </div>
 
             <div className="studio">
-                    <img src={Avatar} className="studio__avatar1"/>
-                    <img src={Avatar} className="studio__avatar2"/>
             </div> 
 
             <Slide direction='right' in={slide} mountOnEnter unmountOnExit timeout={{enter: 500, exit: 2000}}>
@@ -154,6 +153,7 @@ const sentCard = (
                     <img src={sinstagram} onClick={()=>window.open('https://www.instagram.com/a_veemusic/')}/>
                     <img src={whatsapp} onClick={()=>window.open('https://api.whatsapp.com/send?phone=+919599601126')}/>
                     <img src={snapchat} onClick={()=>window.open('https://www.snapchat.com/add/memyselfavneet')}/>
+                    <img src={youtube} onClick={()=>window.open('https://youtube.com/channel/UCd7DoNGP5e0hXpvtw2PfNjg')}/>
                 </div>
             </div>
         </Fragment> 
